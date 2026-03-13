@@ -1,2 +1,7 @@
 # .github
-GitHub のデフォルトテンプレート（PR・issue テンプレート等）を全リポジトリに共通適用するための設定リポジトリ。
+
+GitHub のデフォルト設定を全リポジトリに共通適用するためのリポジトリ。
+
+- `profile/README.md` — Organization プロフィール表示
+- `.github/PULL_REQUEST_TEMPLATE.md` — PR テンプレート
+- `.github/ISSUE_TEMPLATE/` — issue テンプレート
